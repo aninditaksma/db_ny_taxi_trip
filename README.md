@@ -1,11 +1,4 @@
 # New York Taxi Dashboard
-
-## Overview
-
-## Data Source
-[Newyork Yellow Taxi Trip Data](https://www.kaggle.com/datasets/microize/newyork-yellow-taxi-trip-data-2020-2019?resource=downlo+ad+or+https%3A%2F%2Fwww1.nyc.gov%2Fsite%2Ftlc%2Fabout%2Ftlc-trip-record-data.page)
-
-## Screenshot
 <img src="https://raw.githubusercontent.com/aninditaksma/db_ny_taxi_trip/main/dashboard.png?token=GHSAT0AAAAAACCDRXVOHOQP2SJBVAFXUUNKZDXBHMQ">
 
 ## Description
@@ -14,4 +7,7 @@ The dashboard was made particularly to present the overview of the first quarter
 The first pie chart tells which payment method the passengers would likely to do; credit card, while cash comes second. Another pie chart tells the most final rate code in effect at the end of the trip.
 
 A bar chart standing on the right visualizes which borough are the passengers mostly get picked up.
+
+## Data Source
+[Newyork Yellow Taxi Trip Data](https://www.kaggle.com/datasets/microize/newyork-yellow-taxi-trip-data-2020-2019?resource=downlo+ad+or+https%3A%2F%2Fwww1.nyc.gov%2Fsite%2Ftlc%2Fabout%2Ftlc-trip-record-data.page)
 
